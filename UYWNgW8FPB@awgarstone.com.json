@@ -1,0 +1,26 @@
+{
+    "account_type": "full_bypass",
+    "machine_id": "yegPZi6kLM9wxiyf565OXlQQ",
+    "normalized_cp": "uywngw8fpb@awgarstone.com",
+    "is_phone_claim_confirmed": false,
+    "is_phone_claim_pending": false,
+    "new_user_id": "61557910088770",
+    "user_edu_exp_group": "both_ui",
+    "user_edu_prefill_fix": true,
+    "is_in_local_password_logout_group": false,
+    "trigger_new_user_consent_fetch": false,
+    "session_info": {
+        "session_key": "5.h1MU-O_XHlSKlA.1712318674.27-61557910088770",
+        "uid": 61557910088770,
+        "secret": "52d1634d2e5def04a2c85d822593d9e5",
+        "access_token": "EAAAAUaZA8jlABO7YphBd3ksNNYfgukh81QwixJfnx7pzdyKBScMq49UqaCX7UI8vsz8UUhyOsx9ww9zi8bOqsqAmttrI6WWltoVmfesszQZA1taUczjR6zzOEfknDK5KeNvHGOYZB7kdZAfmPS9PkWcLTMHxOou3dxvJX8ZCjgLtrj4RsaIcsZAITPrKMZCYCkUGk5JnXy9AAZDZD",
+        "machine_id": "yegPZi6kLM9wxiyf565OXlQQ",
+        "confirmed": false,
+        "user_storage_key": "ca67695c2270d952c5b2dac1bbd30a4624505db5731b083071be8d7dcdb98736",
+        "is_account_confirmed": false,
+        "is_msplit_account": false,
+        "is_fb_only_not_allowed_in_msgr": false,
+        "is_marketplace_consented": true,
+        "is_gaming_consented": true
+    }
+}
